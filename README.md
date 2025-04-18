@@ -3,7 +3,7 @@
 Bem-vindo ao repositório da **Landing Page CursoJÁ**! 🚀  
 Este é um projeto desenvolvido com fins educacionais e para compor meu portfólio pessoal. A página simula um site de inscrição para uma plataforma de cursos online.
 
-![Preview](https://lucascarvalho8.github.io/landing-page-curso/)
+Preview: https://lucascarvalho8.github.io/landing-page-curso/
 
 ## 📌 Sobre o Projeto
 
