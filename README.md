@@ -29,7 +29,8 @@ A **CursoJÁ Landing Page** é um site estático simples, responsivo e moderno, 
 ---
 
 
-📈 Melhorias Futuras
+## 📈 Melhorias Futuras:
+
  Validação de formulário com feedback visual
 
  Integração com serviço de newsletter (ex: Mailchimp ou API fictícia)
